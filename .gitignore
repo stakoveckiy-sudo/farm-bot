@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# env/venv
+.env
+.venv/
+venv/
+
+# caches
+.cache/
+pip-wheel-metadata/
+*.log
+
+# OS/editor
+.DS_Store
+.idea/
+.vscode/
+
+# ssh/home junk (на всякий)
+.ssh/
+.lesshst
+.profile
+.bash_history
